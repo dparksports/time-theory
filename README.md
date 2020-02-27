@@ -1,5 +1,5 @@
-# non-existaant time theory
-Mental model of Non-existant Time Theory
+# Non Existant Time Theory
+Notes of Non-existant Time Theory.
 
 # Observations
 1. Time does not exists.
