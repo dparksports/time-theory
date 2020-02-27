@@ -27,6 +27,6 @@ WIP Notes of Non-existant Time Theory.
    
    
 7. A1 @ t1 can participate in the observation made by A2 @ t2.
-   Q: An object in A1 can be a non-living thing, by our normal definition?
+   -- Q: An object in A1 can be a non-living thing, by our normal definition?
    
    
