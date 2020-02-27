@@ -1,5 +1,5 @@
 # Non Existant Time Theory
-WIP Notes of Non-existant Time Theory.
+Notes of Non-existant Time Theory.
 
 # Observations
 1. Time does not exist.
