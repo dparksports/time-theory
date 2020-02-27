@@ -4,7 +4,7 @@ Notes of Non-existant Time Theory.
 # Observations
 1. Time does not exist.
 2. Time is an artifact of motion in space dimension.  
-   - eg) in Nth dimension, a motion of an object is space creates an illustration of time.
+   - eg) in Nth dimension, the motion of an object in space creates an illustration of time.
 3. One should not use time as a point of reference in space dimension.
 4. With an instrument in Nth dimension space, 
    One can narrow the gap in dimension-location A1 and A2, without a space travel.
